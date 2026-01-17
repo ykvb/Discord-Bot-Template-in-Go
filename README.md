@@ -216,4 +216,3 @@ Verify the bot token is correct
 9. Web dashboard
 10. Slash commands support
 ```
-Made with ❤️ using Go and DiscordGo
